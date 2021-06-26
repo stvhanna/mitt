@@ -2,7 +2,8 @@
 /test-reports
 /node_modules
 /npm-debug.log
+/index.d.ts
 package-lock.json
 .DS_Store
 .idea
-flow-typed
+.vscode
